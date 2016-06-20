@@ -27,7 +27,7 @@ The following texts are included in this release of the treebank:
   Orosius                                             | Old English         | or          | 1728 tokens
   West-Saxon Gospels                                  | Old English         | wscp        | 13061 tokens
   La Vie Saint Eustace                                | Old French          | eustace     | 2340 tokens
-  Crónica Geral de Espanha 2-12                       | Portuguese          | cge1        | 11500 tokens
+  Crónica Geral de Espanha 2-12                       | Portuguese          | cge1        | 12074 tokens
   Crónica Geral de Espanha 155-167                    | Portuguese          | cge2        | 10547 tokens
   Décadas Livro 5, VIII, 9-14                         | Portuguese          | coutdec-v-8 | 13794 tokens
 
