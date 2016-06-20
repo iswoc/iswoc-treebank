@@ -30,6 +30,13 @@ The following texts are included in this release of the treebank:
   Crónica Geral de Espanha 2-12                       | Portuguese          | cge1        | 12074 tokens
   Crónica Geral de Espanha 155-167                    | Portuguese          | cge2        | 10547 tokens
   Décadas Livro 5, VIII, 9-14                         | Portuguese          | coutdec-v-8 | 13794 tokens
+  Crónica de Alfonso XI                               | Spanish             | alfonso-xi  | 7942 tokens
+  Crónica de España                                   | Spanish             | ce          | 4627 tokens
+  El Conde Lucanor                                    | Spanish             | cdeluc      | 17551 tokens
+  Estoria de Espanna I                                | Spanish             | ee1         | 9488 tokens
+  General Estoria parte IV Daniel                     | Spanish             | ge4         | 9233 tokens
+  Libro delos claros varones                          | Spanish             | varones     | 5820 tokens
+
 
 (The 'size' column in the table above shows the number of annotated tokens in
 a text. The number of tokens will be slightly larger than the number of words
