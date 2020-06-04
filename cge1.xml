@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2016-06-20T14:38:00+02:00" schema-version="2.1">
+<proiel export-time="2018-04-01T17:13:12+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -166,6 +166,7 @@
   <source id="cge1" language="por">
     <title>Crónica Geral de Espanha 2-12</title>
     <citation-part>CGE1</citation-part>
+    <editorial-note>http://folk.uio.no/krisbec/guidelines_romance.pdf</editorial-note>
     <annotator>Kristine Eide (460 sentences) and Carla Barroso (285 sentences)</annotator>
     <reviewer>Kristine Eide (744 sentences)</reviewer>
     <electronic-text-publisher>Corpus Informatizado de Português Medieval</electronic-text-publisher>
@@ -8924,7 +8925,7 @@
         <token id="1298903" form="logo" citation-part="Título 8 8 .0" lemma="logo" part-of-speech="Df" morphology="---------n" head-id="1298902" relation="adv" presentation-after=" "/>
         <token id="1298904" form="pobrar" citation-part="Título 8 8 .0" lemma="povoar" part-of-speech="V-" morphology="---n-----n" head-id="1298902" relation="comp" presentation-after=" "/>
         <token id="1298905" form="dous" citation-part="Título 8 8 .0" lemma="dois" part-of-speech="Py" morphology="-p---m---i" head-id="1298906" relation="atr" information-status="info_unannotatable" presentation-after=" "/>
-        <token id="1298906" form="castellos" citation-part="Título 8 8 .0" lemma="castelo" part-of-speech="Nb" morphology="-p---m---i" head-id="1298904" relation="obj" information-status="non_spec" presentation-after=" "/>
+        <token id="1298906" form="castellos" citation-part="Título 8 8 .0" lemma="castelo" part-of-speech="Nb" morphology="-p---m---i" head-id="1298904" relation="obj" information-status="new" presentation-after=" "/>
         <token id="1298907" form="em" citation-part="Título 8 8 .0" lemma="em" part-of-speech="R-" morphology="---------n" head-id="1298904" relation="obl" presentation-after=" "/>
         <token id="1298908" form="aquelle" citation-part="Título 8 8 .0" lemma="aquele" part-of-speech="Pd" morphology="-s---m---i" head-id="1298909" relation="atr" presentation-after=" "/>
         <token id="1298909" form="logar" citation-part="Título 8 8 .0" lemma="lugar" part-of-speech="Nb" morphology="-p---m---i" head-id="1298907" relation="obl" antecedent-id="1298893" information-status="old" presentation-after=" "/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2016-06-20T14:37:35+02:00" schema-version="2.1">
+<proiel export-time="2018-04-01T17:12:47+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -168,6 +168,7 @@
     <citation-part>St. Eustace</citation-part>
     <license>CC BY-NC-SA 3.0</license>
     <license-url>http://creativecommons.org/licenses/by-nc-sa/3.0/us/</license-url>
+    <editorial-note>Documentation for the morphological and syntactic annotation can be found here: http://folk.uio.no/krisbec/guidelines_romance.pdf</editorial-note>
     <annotator>Kristin Bech (103 sentences) and Kristine Eide (34 sentences)</annotator>
     <reviewer>Kristin Bech (100 sentences) and Kristine Eide (37 sentences)</reviewer>
     <div>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<proiel export-time="2016-06-20T14:39:56+02:00" schema-version="2.1">
+<proiel export-time="2018-04-01T17:15:09+02:00" schema-version="2.1">
   <annotation>
     <relations>
       <value tag="adnom" summary="adnominal" primary="true" secondary="true"/>
@@ -166,8 +166,9 @@
   <source id="ge4" language="spa">
     <title>General Estoria parte IV Daniel</title>
     <citation-part>GE4</citation-part>
-    <annotator>Raúl Orellana Calderón (1169 sentences) and kristin hagemann (3 sentences)</annotator>
-    <reviewer>kristin hagemann (565 sentences)</reviewer>
+    <editorial-note>http://folk.uio.no/krisbec/guidelines_romance.pdf</editorial-note>
+    <annotator>Raúl Orellana Calderón (1168 sentences) and Kristin Hagemann (4 sentences)</annotator>
+    <reviewer>Kristin Hagemann (566 sentences)</reviewer>
     <div>
       <title>General Estoria parte IV Daniel 8</title>
       <sentence id="97508" status="reviewed">
@@ -11137,6 +11138,49 @@
         <token id="1389353" form="el" citation-part="14" lemma="el" part-of-speech="S-" morphology="-s---m---i" head-id="1389354" relation="aux" presentation-after=" "/>
         <token id="1389354" form="Rey" citation-part="14" lemma="rey" part-of-speech="Nb" morphology="-s---m---i" head-id="1389352" relation="obl" antecedent-id="1389343" information-status="old" presentation-after=". "/>
         <token id="1389355" empty-token-sort="V" citation-part="14" head-id="1389345" relation="pred"/>
+      </sentence>
+    </div>
+    <div>
+      <title>General Estoria parte IV Daniel 28</title>
+      <sentence id="98503" status="reviewed">
+        <token id="1397533" form="Dizen" citation-part="28" lemma="decir" part-of-speech="V-" morphology="3ppi-----i" relation="pred" presentation-after=" "/>
+        <token id="1397534" form="los" citation-part="28" lemma="el" part-of-speech="S-" morphology="-p---m---i" head-id="1397535" relation="aux" presentation-after=" "/>
+        <token id="1397535" form="ebreos" citation-part="28" lemma="hebreo" part-of-speech="A-" morphology="-p---m-p-i" head-id="1397533" relation="sub" presentation-after=" "/>
+        <token id="1397536" form="que" citation-part="28" lemma="que" part-of-speech="G-" morphology="---------n" head-id="1397533" relation="comp" presentation-after=" "/>
+        <token id="1397537" form="de" citation-part="28" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1397558" relation="apos" presentation-after=" "/>
+        <token id="1397538" form="qual quìer" citation-part="28" lemma="cualquier" part-of-speech="Px" morphology="-s---m---i" head-id="1397537" relation="obl" presentation-after=" "/>
+        <token id="1397540" form="de" citation-part="28" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1397538" relation="atr" presentation-after=" "/>
+        <token id="1397541" form="los" citation-part="28" lemma="el" part-of-speech="S-" morphology="-p---m---i" head-id="1397542" relation="aux" presentation-after=" "/>
+        <token id="1397542" form="prophetas" citation-part="28" lemma="profeta" part-of-speech="Nb" morphology="-p---m---i" head-id="1397540" relation="obl" presentation-after=" "/>
+        <token id="1397543" form="cuyo" citation-part="28" lemma="cuyo" part-of-speech="A-" morphology="-s---m-p-i" head-id="1397544" relation="atr" presentation-after=" "/>
+        <token id="1397544" form="padre" citation-part="28" lemma="padre" part-of-speech="Nb" morphology="-s---m---i" head-id="1397545" relation="sub" presentation-after=" "/>
+        <token id="1397545" form="o" citation-part="28" lemma="o" part-of-speech="C-" morphology="---------n" head-id="1397548" relation="sub" presentation-after=" "/>
+        <token id="1397546" form="auuelo" citation-part="28" lemma="abuelo" part-of-speech="Nb" morphology="-s---m---i" head-id="1397545" relation="sub" presentation-after=" "/>
+        <token id="1397547" form="es" citation-part="28" lemma="ser" part-of-speech="V-" morphology="3spi-----i" head-id="1397548" relation="aux" presentation-after=" "/>
+        <token id="1397548" form="puesto" citation-part="28" lemma="poner" part-of-speech="V-" morphology="-s-p-m---i" head-id="1397542" relation="atr" presentation-after=" "/>
+        <token id="1397549" form="en" citation-part="28" lemma="en" part-of-speech="R-" morphology="---------n" head-id="1397548" relation="obl" presentation-after=" "/>
+        <token id="1397550" form="el" citation-part="28" lemma="el" part-of-speech="S-" morphology="-s---m---i" head-id="1397551" relation="aux" presentation-after=" "/>
+        <token id="1397551" form="titulo" citation-part="28" lemma="título" part-of-speech="Nb" morphology="-s---m---i" head-id="1397549" relation="obl" presentation-after=" "/>
+        <token id="1397552" form="de" citation-part="28" lemma="de" part-of-speech="R-" morphology="---------n" head-id="1397551" relation="atr" presentation-after=" "/>
+        <token id="1397553" form="la" citation-part="28" lemma="el" part-of-speech="S-" morphology="-s---f---i" head-id="1397555" relation="aux" presentation-after=" "/>
+        <token id="1397554" form="su" citation-part="28" lemma="su" part-of-speech="Ps" morphology="-s---f---i" head-id="1397555" relation="atr" presentation-after=" "/>
+        <token id="1397555" form="prophecia" citation-part="28" lemma="profecía" part-of-speech="Nb" morphology="-s---f---i" head-id="1397552" relation="obl" presentation-after=". "/>
+        <token id="1397556" form="que" citation-part="28" lemma="que" part-of-speech="G-" morphology="---------n" head-id="1397536" relation="aux" presentation-after=" "/>
+        <token id="1397557" form="propheta" citation-part="28" lemma="profeta" part-of-speech="Nb" morphology="-s---m---i" head-id="1397558" relation="xobj" presentation-after=" ">
+          <slash target-id="1397562" relation="xsub"/>
+        </token>
+        <token id="1397558" form="fue" citation-part="28" lemma="ser" part-of-speech="V-" morphology="3sri-----i" head-id="1397536" relation="pred" presentation-after=" "/>
+        <token id="1397559" form="otrossi" citation-part="28" lemma="otrosí" part-of-speech="Df" morphology="---------n" head-id="1397558" relation="adv" presentation-after=" "/>
+        <token id="1397560" form="el" citation-part="28" lemma="el" part-of-speech="S-" morphology="-s---m---i" head-id="1397561" relation="aux" presentation-after=" "/>
+        <token id="1397561" form="padre" citation-part="28" lemma="padre" part-of-speech="Nb" morphology="-s---m---i" head-id="1397562" relation="sub" presentation-after=" "/>
+        <token id="1397562" form="o" citation-part="28" lemma="o" part-of-speech="C-" morphology="---------n" head-id="1397558" relation="sub" presentation-after=" "/>
+        <token id="1397563" form="aquell" citation-part="28" lemma="aquel" part-of-speech="Pd" morphology="-s---m---i" head-id="1397565" relation="atr" presentation-after=" "/>
+        <token id="1397564" form="so" citation-part="28" lemma="su" part-of-speech="Ps" morphology="-s---m---i" head-id="1397565" relation="atr" presentation-after=" "/>
+        <token id="1397565" form="auuelo" citation-part="28" lemma="abuelo" part-of-speech="Nb" morphology="-s---m---i" head-id="1397562" relation="sub" presentation-after=" "/>
+        <token id="1397566" form="que" citation-part="28" lemma="que" part-of-speech="Pr" morphology="---------n" head-id="1397569" relation="sub" presentation-after=" "/>
+        <token id="1397567" form="y" citation-part="28" lemma="ý" part-of-speech="Df" morphology="---------n" head-id="1397569" relation="obl" presentation-after=" "/>
+        <token id="1397568" form="sie" citation-part="28" lemma="ser" part-of-speech="V-" morphology="3spi-----i" head-id="1397569" relation="aux" presentation-after=" "/>
+        <token id="1397569" form="nombrado" citation-part="28" lemma="nombrar" part-of-speech="V-" morphology="-s-p-m---i" head-id="1397565" relation="atr" presentation-after=". "/>
       </sentence>
     </div>
   </source>

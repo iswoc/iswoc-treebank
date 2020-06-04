@@ -1924,7 +1924,7 @@
 31	la	el	S	S-	NUMBs|GENDf	32	aux	_	_
 32	manera	manera	N	Nb	NUMBs|GENDf	39	obj	_	_
 33	en	en	R	R-	INFLn	38	adv	_	_
-34	cómo	cómo	D	Du	INFLn	33	obl	_	_
+34	cómo	como	D	Dq	INFLn	33	obl	_	_
 35	oviera	haber	V	V-	PERS3|NUMBs|TENSl|MOODi	32	atr	_	_
 36	a	a	R	R-	INFLn	38	aux	_	_
 37	seer	ser	V	V-	MOODn|INFLn	38	aux	_	_
@@ -10126,7 +10126,7 @@
 46	seguro	seguro	A	A-	NUMBs|GENDm|DEGRp	45	xobj	_	_
 47	si	si	G	G-	INFLn	51	adv	_	_
 48	él	él	P	Pp	PERS3|NUMBs|GENDm	50	sub	_	_
-49	tal	tal	D	Df	INFLn	50	xobj	_	_
+49	tal	tal	A	A-	NUMBs|GENDm|DEGRp	50	xobj	_	_
 50	fuer	ser	V	V-	PERS3|NUMBs|TENSf|MOODs	47	pred	_	_
 51	faríades	hacer	V	V-	PERS2|NUMBp|TENSt|MOODi	0	pred	_	_
 52	mal	malo	A	A-	NUMBs|GENDm|DEGRp	53	atr	_	_
@@ -10952,7 +10952,7 @@
 2	ante	ante	D	Df	INFLn	3	aux	_	_
 3	que	que	G	G-	INFLn	17	adv	_	_
 4	el	el	S	S-	NUMBs|GENDm	5	aux	_	_
-5	pleito	pleito	N	Nb	NUMBs|GENDm	7	obl	_	_
+5	pleito	pleito	N	Nb	NUMBs|GENDm	7	sub	_	_
 6	fuesse	ser	V	V-	PERS3|NUMBs|TENSi|MOODs	7	aux	_	_
 7	acabado	acabar	V	V-	NUMBs|MOODp|GENDm	3	pred	_	_
 8	teniendo	tener	V	V-	MOODg|INFLn	17	adv	_	_
@@ -12065,15 +12065,15 @@
 2	don	don	N	Nb	NUMBs|GENDm	3	atr	_	_
 3	Illán	Illán	N	Nb	INFLn	4	sub	_	_
 4	dixo	decir	V	V-	PERS3|NUMBs|TENSr|MOODi	0	pred	_	_
-5	que	que	G	G-	INFLn	4	comp	_	_
+5	que	que	G	G-	INFLn	13	comp	_	_
 6	bien	bien	D	Df	INFLn	7	adv	_	_
 7	entendié	entender	V	V-	PERS3|NUMBs|TENSi|MOODi	5	pred	_	_
-8	que	que	G	G-	INFLn	13	comp	_	_
+8	que	que	G	G-	INFLn	7	comp	_	_
 9	l	le	P	Pp	PERS3|NUMBs|GENDm	10	obl	_	_
 10	fazía	fazer	V	V-	PERS3|NUMBs|TENSi|MOODi	8	pred	_	_
 11	gran	grande	A	A-	NUMBs|GENDm|DEGRp	12	atr	_	_
 12	tuerto	tuerto	N	Nb	NUMBs|GENDm	10	obj	_	_
-13	pero	pero	C	C-	INFLn	7	comp	_	_
+13	pero	pero	C	C-	INFLn	4	comp	_	_
 14	que	que	G	G-	INFLn	13	comp	_	_
 15	esto	esto	P	Pd	INFLn	17	apos	_	_
 16	que	que	G	G-	INFLn	14	aux	_	_
@@ -12962,7 +12962,7 @@
 8	muy	muy	D	Df	INFLn	9	adv	_	_
 9	leal	leal	A	A-	NUMBs|GENDm|DEGRp	7	xobj	_	_
 10	et	et	C	C-	INFLn	5	pred	_	_
-11	sabedes	saber	V	V-	PERS1|NUMBp|TENSp|MOODi	10	pred	_	_
+11	sabedes	saber	V	V-	PERS2|NUMBp|TENSp|MOODi	10	pred	_	_
 12	mucho	mucho	D	Df	INFLn	11	adv	_	_
 13	de	de	R	R-	INFLn	12	part	_	_
 14	tales	tal	A	A-	NUMBp|GENDf|DEGRp	15	atr	_	_
@@ -13292,7 +13292,7 @@
 4	entendió	entender	V	V-	PERS3|NUMBs|TENSr|MOODi	1	pred	_	_
 5	que	que	G	G-	INFLn	4	comp	_	_
 6	el	el	S	S-	NUMBs|GENDm	7	aux	_	_
-7	gallo	gallo	N	Nb	NUMBs|GENDm	8	obj	_	_
+7	gallo	gallo	N	Nb	NUMBs|GENDm	8	sub	_	_
 8	estava	estar	V	V-	PERS3|NUMBs|TENSi|MOODi	5	pred	_	_
 9	en	en	R	R-	INFLn	8	xobj	_	_
 10	salvo	salvo	A	A-	NUMBs|GENDm|DEGRp	9	obl	_	_

@@ -7366,7 +7366,7 @@
 17	el	él	P	Pp	PERS3|NUMBs|GENDm	16	obl	_	_
 18	y	y	C	C-	INFLn	12	obj	_	_
 19	otros	otro	P	Py	NUMBp|GENDm	18	obj	_	_
-20	que	que	P	Pr	INFLn	22	obj	_	_
+20	que	que	P	Pr	INFLn	22	sub	_	_
 21	numqua	nunca	D	Df	INFLn	22	adv	_	_
 22	quisieron	querer	V	V-	PERS3|NUMBp|TENSr|MOODi	19	atr	_	_
 23	reyr	reír	V	V-	MOODn|INFLn	24	xobj	_	_
